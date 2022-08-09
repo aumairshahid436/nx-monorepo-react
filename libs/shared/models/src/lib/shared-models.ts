@@ -5,3 +5,7 @@ export interface IBook {
   rating: number;
   price: number;
 }
+
+export interface BookModel {
+  id: number;
+}
