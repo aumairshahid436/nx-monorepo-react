@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/aumairshahid436/nx-monorepo-react/compare/v0.0.4...v0.0.5) (2022-08-09)
+
+
+### Features
+
+* "add title" ([4bebf6d](https://github.com/aumairshahid436/nx-monorepo-react/commit/4bebf6df5014bd0b1352b73bd99d2eece2966292))
+
+
+### Bug Fixes
+
+* "heading spelling" ([911e5cd](https://github.com/aumairshahid436/nx-monorepo-react/commit/911e5cd1bdaa49af5b91d2c41a68f4afed18074f))
+
 ### [0.0.4](https://github.com/aumairshahid436/nx-monorepo-react/compare/v0.0.3...v0.0.4) (2022-08-09)
 
 
