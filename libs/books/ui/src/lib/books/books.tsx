@@ -4,7 +4,6 @@ import { Book } from '../book/book';
 
 export interface BooksProps {
   books: IBook[];
-  // New prop
   onAdd: (book: IBook) => void;
 }
 

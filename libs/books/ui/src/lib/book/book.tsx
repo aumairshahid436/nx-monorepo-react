@@ -1,11 +1,9 @@
-import React from 'react';
 import styled from 'styled-components';
 import { Button } from '@myorg/ui';
 import { IBook } from '@myorg/shared/models';
 
 export interface BookProps {
   book: IBook;
-  // New prop
   onAdd: (book: IBook) => void;
 }
 
@@ -39,7 +37,6 @@ export const Book = ({ book, onAdd }: BookProps) => {
       </span>
       <span className="rating">{book.rating}</span>{' '}
       <span className="price">${book.price}</span>
-      {/* Add button to UI */}
       <span>
         <Button onClick={() => onAdd(book)}>Add to Cart</Button>
       </span>
