@@ -514,7 +514,7 @@ export function NxWelcome({ title }: { title: string }) {
                   />
                 </svg>
                 <span>
-                  Blog
+                  Blog Heading
                   <span> Changelog, features & events </span>
                 </span>
                 <svg
